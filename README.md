@@ -35,10 +35,11 @@ Atualmente, dedico meus estudos ao **Cisco Packet Tracer**, simulando redes e ap
 ---
 
 #### ⚙️ Ferramentas de Simulação e Virtualização
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_packet_tracer_icon.svg" width="45" height="45" alt="Cisco Packet Tracer" />
+<img src="https://raw.githubusercontent.com/Saraiva-dev-br/assets/main/icons/cisco-packet-tracer.svg" width="45" height="45" alt="Cisco Packet Tracer" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="45" height="45" alt="Vagrant" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="45" height="45" alt="VirtualBox" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Wireshark_icon.svg" width="45" height="45" alt="Wireshark" />
+<img src="https://raw.githubusercontent.com/Saraiva-dev-br/assets/main/icons/wireshark.svg" width="45" height="45" alt="Wireshark" />
+
 
 
 ---
