@@ -10,20 +10,42 @@ Atualmente, dedico meus estudos ao **Cisco Packet Tracer**, simulando redes e ap
 - 🛠️ Foco em **Redes de Computadores**, **Protocolos TCP/IP** e **Topologias de Rede**  
 - 🌱 Aprendendo sobre **Segurança de Rede**, **Servidores Linux** e **Virtualização**  
 - 💼 Em busca da **primeira oportunidade profissional** na área de infraestrutura e redes  
+- 📡 Conectando ideias, pessoas e tecnologia — um eterno estudante.  
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
+### 🧰 Tecnologias e Ferramentas
 
 <div align="center">
 
-| Área | Ferramentas |
-|------|--------------|
-| **Simulação de Redes** | Cisco Packet Tracer |
-| **Sistemas Operacionais** | Linux • Windows Server |
-| **Virtualização** | VirtualBox • VMware |
-| **Gerenciamento e Monitoramento** | Wireshark • Ping • Traceroute |
-| **Outros Conhecimentos** | DHCP • DNS • VLAN • Roteamento estático e dinâmico |
+#### 💻 Linguagens e Scripts
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
+
+---
+
+#### 🌐 Redes e Infraestrutura
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+
+---
+
+#### ⚙️ Ferramentas de Simulação e Virtualização
+<img src="https://img.icons8.com/color/48/000000/cisco-packet-tracer.png" width="45" height="45" alt="Cisco Packet Tracer" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="45" height="45" alt="Vagrant" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="45" height="45" alt="VirtualBox" />
+<img src="https://img.icons8.com/color/48/000000/wireshark.png" width="45" height="45" alt="Wireshark" />
+
+---
+
+#### 🧩 Outros
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" />
 
 </div>
 
