@@ -35,12 +35,12 @@ Atualmente, dedico meus estudos ao **Cisco Packet Tracer**, simulando redes e ap
 ---
 
 #### ⚙️ Ferramentas de Simulação e Virtualização
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cisco-packet-tracer-is-a-cross-platform-visual-simulation-tool-logo-color-tal-revivo.png" width="45" height="45" alt="Cisco Packet Tracer" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="45" height="45" alt="Vagrant" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="45" height="45" alt="VirtualBox" />
-<img src="https://img.icons8.com/color/48/wireshark--v1.png" width="45" height="45" alt="Wireshark" />
-
-
+<p align="center">
+  <img src="./icons/cisco.png" width="50" height="50" alt="Cisco Packet Tracer"/>
+  <img src="./icons/wireshark.png" width="50" height="50" alt="Wireshark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="50" height="50" alt="Vagrant"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="50" height="50" alt="VirtualBox"/>
+</p>
 
 
 ---
