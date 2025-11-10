@@ -1,43 +1,71 @@
-<h1 align="center">🚀 Tiago | Estudante de Redes & Tecnologia</h1>
+# 🌐 Hello, world! I'm Tiago Saraiva
 
-<p align="center">
-  Apaixonado por tecnologia, sempre em busca de aprender, criar e evoluir! 👨🏽‍💻✨
+Sou **Técnico em Redes de Computadores** apaixonado por tecnologia, comunicação de dados e infraestrutura.  
+Atualmente, dedico meus estudos ao **Cisco Packet Tracer**, simulando redes e aprimorando minhas habilidades em configuração e troubleshooting.
+
+---
+
+### 🧠 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFACID**  
+- 🛠️ Foco em **Redes de Computadores**, **Protocolos TCP/IP** e **Topologias de Rede**  
+- 🌱 Aprendendo sobre **Segurança de Rede**, **Servidores Linux** e **Virtualização**  
+- 💼 Em busca da **primeira oportunidade profissional** na área de infraestrutura e redes  
+- 📡 Conectando ideias, pessoas e tecnologia — um eterno estudante.  
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<div align="center">
+
+#### 💻 Linguagens e Scripts
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
+
+---
+
+#### 🌐 Redes e Infraestrutura
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+
+---
+
+#### ⚙️ Ferramentas de Simulação e Virtualização
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" width="60"/>
 </p>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+#### 🧩 Outros
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" />
 
-<p align="center">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50"/>
-</p>
-
-<p align="center">
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_Microsoft_Office_2013.svg" alt="Microsoft Office" width="50"/>
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" width="60"/>
-  <img src="https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text.png" alt="Wireshark" width="60"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zOtWWa9IYb6Nb7ccNrFVhmeMAafE7ku-Gw&s" alt="Network Icon" width="60"/>
-</p>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  
+![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saraiva-dev-br&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva-dev-br&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  💡 “A tecnologia é a ponte entre a curiosidade e o futuro.”  
-</p>
+### 📫 Contato
+📧 **tiagosaraiva.dev@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/) *(adicione seu link aqui)*  
+📸 [Instagram](https://instagram.com/) *(opcional)*  
+
+---
+
+> “Redes conectam máquinas, mas o aprendizado conecta mentes.” 🌐
